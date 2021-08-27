@@ -32,12 +32,12 @@ ALLOWED_HOSTS = config('ALLOWED_HOSTS', default=[], cast=list)
 # Application definition
 
 INSTALLED_APPS = [
+    'apps.auth',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'auth'
 ]
 
 MIDDLEWARE = [
