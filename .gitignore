@@ -1,3 +1,4 @@
 .env
 apps/*/__pycache__/
 project/__pycache__/
+project/settings/__pycache__/
