@@ -2,16 +2,15 @@
 Make your life easier with preconfigured django development environment.
 
 # How to use
-Step 1: Clone project
+**Step 1**: Clone project
 `git clone https://github.com/Farkhod007/django_rest_starter.git`
 
-Step 2: Install dependencies
+**Step 2**: Install dependencies
 `poetry install`
 
-Step 3: Configure .env file
-Copy data inside .env.example and paste it to .env file
+**Step 3**: Configure .env file. Copy data inside .env.example and paste it to .env file
 
-Step 4: Activate virtual invironment by running belove command
+**Step 4**: Activate virtual invironment by running belove command
 `poetry shell`
 
 
