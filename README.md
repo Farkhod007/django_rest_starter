@@ -18,6 +18,6 @@ Make your life easier with preconfigured django development environment.
 Poetry is used as a dependency management. 
 
 Useful links:
-- [Install poetry with pip](https://python-poetry.org/docs/#installing-with-pip)
-- [Specifying dependencies](https://python-poetry.org/docs/basic-usage/#specifying-dependencies)
-- [Activating the virtual environment](https://python-poetry.org/docs/basic-usage/#activating-the-virtual-environment)
+- [Install poetry with pip](https://python-poetry.org/docs/#installing-with-pip) `pip install --user poetry`
+- [Specifying dependencies](https://python-poetry.org/docs/basic-usage/#specifying-dependencies) `poetry add django`
+- [Activating the virtual environment](https://python-poetry.org/docs/basic-usage/#activating-the-virtual-environment) `poetry shell`
