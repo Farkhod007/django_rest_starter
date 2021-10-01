@@ -19,8 +19,3 @@ Poetry is used as a dependency management.
 
 Useful links:
 - [Install poetry with pip](https://python-poetry.org/docs/#installing-with-pip)
-
-
-# Virtual environment and dependency management will be managed by poetry
-
-https://python-poetry.org/
